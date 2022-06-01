@@ -1,0 +1,15 @@
+{
+    "name": "Girl1",
+    "description":"This is girl1",
+    "image":"https://ipfs.io/ipfs/QmfNyCUqzBegdx3vkEstiLBPS9sxaR95djKNuttrpmaojs",
+    "attributes": [
+        {
+            "trait_type": "id",
+            "value": "67e18491-4837-4272-abea-e8a9fb1b3d77"
+        },
+        {
+            "trait_type": "WinCount",
+            "value": 5
+        }
+    ]
+}
